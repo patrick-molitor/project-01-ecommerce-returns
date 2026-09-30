@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,price,supplier_id
+1,Business Shirt,Schuhe,T-Shirts,41.07,Premium
+2,Basic T-Shirt,Bekleidung,Sportzubehör,225.83,Premium
+3,Winter Jacket,Bekleidung,Jeans,87.76,Standard
+4,Travel Bag,Sport,Sonnenbrillen,196.21,Premium
+5,Football Jersey,Accessoires,Jeans,233.1,Premium
+6,Training Shoes,Sport,Mützen,204.79,Premium
+7,Classic Sunglasses,Schuhe,T-Shirts,98.08,Standard
+8,Basketball Shoes,Accessoires,Accessoires,87.05,Premium
+9,Classic Hoodie,Accessoires,Jacken,174.42,Premium
+10,Training Shorts,Schuhe,Sporthosen,127.61,Standard
+11,Skinny Jeans,Schuhe,Sportzubehör,167.77,Premium
+12,Premium Hoodie,Schuhe,Sneakers,76.25,Standard
+13,Slim Fit Jeans,Bekleidung,Jeans,146.44,Standard
+14,Sports Jacket,Bekleidung,Sneakers,159.23,Premium
+15,Rain Jacket,Sport,Sonnenbrillen,43.41,Premium
+16,Running Shorts,Bekleidung,Sportbekleidung,148.4,Premium
+17,Sports Towel,Schuhe,Gürtel,225.4,Standard
+18,Sports Bag,Accessoires,Sportzubehör,211.76,Standard
+19,Slim Fit Jeans,Sport,Sneakers,36.37,Standard
+20,Trail Running Shoes,Bekleidung,Jeans,205.12,Premium
+21,Premium T-Shirt,Schuhe,Sporthosen,186.36,Premium
+22,Backpack Classic,Sport,Hemden,83.38,Standard
+23,Leather Jacket,Sport,Hoodies,211.37,Premium
+24,Business Shirt,Accessoires,T-Shirts,116.69,Standard
+25,Sports Jacket,Accessoires,Laufschuhe,66.0,Premium
+26,Travel Organizer,Schuhe,Taschen,224.6,Standard
+27,Trail Running Shoes,Bekleidung,Laufschuhe,36.74,Standard
+28,Sports Towel,Accessoires,Sporthosen,224.34,Premium
+29,Running Pants,Schuhe,Sportbekleidung,112.89,Premium
+30,Business Shirt,Schuhe,T-Shirts,235.92,Premium
+31,Training Shirt,Bekleidung,Accessoires,84.77,Standard
+32,Yoga Pants,Bekleidung,Sportzubehör,122.82,Standard
+33,Gloves,Sport,T-Shirts,95.33,Standard
+34,Skinny Jeans,Sport,Sonnenbrillen,118.05,Premium
+35,Sports Jacket,Bekleidung,Mützen,185.49,Standard
+36,Cap Classic,Bekleidung,Hemden,208.42,Standard
+37,Wallet,Schuhe,Sportbekleidung,27.54,Premium
+38,Sports Leggings,Accessoires,Jacken,222.9,Standard
+39,Regular Fit Jeans,Bekleidung,Sneakers,125.44,Premium
+40,Sports Leggings,Accessoires,Sporthosen,92.99,Premium
+41,Basic T-Shirt,Schuhe,Hoodies,88.1,Standard
+42,Wallet,Accessoires,Sportzubehör,231.82,Standard
+43,Gloves,Schuhe,Jacken,13.51,Standard
+44,Sports Sunglasses,Schuhe,Sportschuhe,85.79,Premium
+45,Basic T-Shirt,Schuhe,Hemden,46.37,Standard
+46,Running Shorts,Bekleidung,Sporthosen,169.91,Premium
+47,Scarf,Schuhe,Jeans,149.67,Standard
+48,Running Shoes,Accessoires,Jacken,50.61,Premium
+49,Scarf,Accessoires,Sporthosen,225.38,Standard
+50,Winter Dress,Bekleidung,Sporthosen,13.72,Standard
