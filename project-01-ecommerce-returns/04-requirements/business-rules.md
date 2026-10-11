@@ -56,6 +56,10 @@ Bei manueller Bearbeitung durch Finance soll die entsprechende Bearbeitungsdauer
 
 Die gesamte Erstattungsdauer bleibt unabhängig davon messbar. Manuelle Bearbeitungs- oder Wartezeiten werden bei der Ermittlung der Gesamtdauer nicht abgezogen.
 
+## BRL-06 – Kundenspezifische Statusanzeige
+
+Ein Kunde darf im Kundenportal ausschließlich den Bearbeitungsstatus seiner eigenen Retouren einsehen.
+
 ## Offene fachliche Fragen
 
 * Welche konkreten Voraussetzungen müssen erfüllt sein, damit eine Erstattung automatisch ausgelöst werden darf?
