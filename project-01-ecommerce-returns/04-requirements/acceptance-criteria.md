@@ -19,6 +19,7 @@ Die Kriterien dienen dazu, die erwarteten Systemfunktionen eindeutig zu beschrei
 - **AK-01.2.1:** Das System speichert den aktuellen Bearbeitungsstatus einer Retoure.
 - **AK-01.2.2:** Bei definierten Prozessschritten wird der Bearbeitungsstatus entsprechend aktualisiert.
 - **AK-01.2.3:** Der aktuelle Bearbeitungsstatus kann von berechtigten Mitarbeitenden eingesehen werden.
+- **AK-01.2.4:** Retourenstatus im Kundenportal anzeigen
 
 ### FR-01.3 – Warenbestand aktualisieren
 

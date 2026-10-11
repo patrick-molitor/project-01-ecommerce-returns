@@ -14,7 +14,7 @@ Das System soll bei der Registrierung einer Retoure eine eindeutige Retouren-ID 
 
 ### FR-01.2 – Bearbeitungsstatus aktualisieren
 
-Das System soll den Bearbeitungsstatus einer Retoure speichern und bei relevanten Prozessschritten aktualisieren.
+Das System muss den Bearbeitungsstatus einer Retoure aktualisieren und den aktuellen Status sowohl berechtigten Mitarbeitenden als auch dem zugehörigen Kunden im Kundenportal zur Einsicht bereitstellen.
 
 ### FR-01.3 – Warenbestand aktualisieren
 
