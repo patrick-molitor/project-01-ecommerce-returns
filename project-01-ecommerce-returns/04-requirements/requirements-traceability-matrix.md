@@ -10,7 +10,7 @@ Sie unterstützt die Nachvollziehbarkeit der Anforderungen und hilft dabei, Lüc
 
 | Business Requirement | Functional Requirement | Zugehörige Acceptance Criteria | Zusammenhang |
 |---|---|---|---|
-| BR-01 – Manuellen Bearbeitungsaufwand reduzieren | FR-01.1 – Retouren-ID erzeugen | AK-01.1.1–AK-01.1.3 | Eindeutige Zuordnung unterstützt die automatisierte Bearbeitung. |
+| BR-01 | FR-01.1 – Retouren-ID erzeugen | AK-01.1.1–AK-01.1.3 | Eindeutige Zuordnung unterstützt die automatisierte Bearbeitung. |
 | BR-01, BR-04 | FR-01.2 – Bearbeitungsstatus aktualisieren | AK-01.2.1–AK-01.2.3 | Der Status macht den Bearbeitungsstand nachvollziehbar. |
 | BR-01 | FR-01.3 – Warenbestand aktualisieren | AK-01.3.1–AK-01.3.3 | Die Bestandsaktualisierung reduziert manuelle Folgearbeiten. |
 | BR-01, BR-04 | FR-01.4 – Erstattung automatisieren | AK-01.4.1–AK-01.4.4 | Die Automatisierung reduziert manuelle Bearbeitung und soll die Erstattungsdauer verkürzen. |
