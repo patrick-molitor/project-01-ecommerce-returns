@@ -60,6 +60,10 @@ Die gesamte Erstattungsdauer bleibt unabhängig davon messbar. Manuelle Bearbeit
 
 Ein Kunde darf im Kundenportal ausschließlich den Bearbeitungsstatus seiner eigenen Retouren einsehen.
 
+## BRL-07 – Allgemeine Statusanzeige für Kunden
+
+Kunden dürfen im Kundenportal ausschließlich den allgemeinen Bearbeitungs- und Erstattungsstatus ihrer eigenen Retouren einsehen. Interne Behandlungsentscheidungen, insbesondere Einlagerung, Aufbereitung oder Entsorgung, werden nicht angezeigt.
+
 ## Offene fachliche Fragen
 
 * Welche konkreten Voraussetzungen müssen erfüllt sein, damit eine Erstattung automatisch ausgelöst werden darf?
