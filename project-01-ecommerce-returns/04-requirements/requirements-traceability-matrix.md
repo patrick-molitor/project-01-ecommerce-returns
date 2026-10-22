@@ -11,7 +11,7 @@ Sie unterstützt die Nachvollziehbarkeit der Anforderungen und hilft dabei, Lüc
 | Business Requirement | Functional Requirement | Zugehörige Acceptance Criteria | Zusammenhang |
 |---|---|---|---|
 | BR-01 | FR-01.1 – Retouren-ID erzeugen | AK-01.1.1–AK-01.1.3 | Eindeutige Zuordnung unterstützt die automatisierte Bearbeitung. |
-| BR-01, BR-04 | FR-01.2 – Bearbeitungsstatus aktualisieren | AK-01.2.1–AK-01.2.3 | Der Status macht den Bearbeitungsstand nachvollziehbar. |
+| BR-01, BR-04 | FR-01.2 – Bearbeitungsstatus für berechtigte Mitarbeitende und den zugehörigen Kunden aktualisieren | AK-01.2.1–AK-01.2.4 | Der Status macht den Bearbeitungsstand nachvollziehbar. |
 | BR-01 | FR-01.3 – Warenbestand aktualisieren | AK-01.3.1–AK-01.3.3 | Die Bestandsaktualisierung reduziert manuelle Folgearbeiten. |
 | BR-01, BR-04 | FR-01.4 – Erstattung automatisieren | AK-01.4.1–AK-01.4.4 | Die Automatisierung reduziert manuelle Bearbeitung und soll die Erstattungsdauer verkürzen. |
 | BR-02 | FR-02.1 – Prozesszeitpunkte dokumentieren | AK-02.1.1–AK-02.1.3 | Die Zeitpunkte bilden die Grundlage für die Messung. |
@@ -29,6 +29,7 @@ Sie unterstützt die Nachvollziehbarkeit der Anforderungen und hilft dabei, Lüc
 - Der Startzeitpunkt für die Messung der Erstattungsdauer bei BR-04 muss fachlich bestätigt werden.
 - Die Voraussetzungen für eine automatisierte Erstattung müssen abschließend definiert werden.
 - Die fachlichen Regeln für eine Größenempfehlung müssen konkretisiert werden.
+- Der konkrete Zielwert zur Reduzierung größenbedingter Retouren ist noch festzulegen.
 
 ## Verwendung
 
